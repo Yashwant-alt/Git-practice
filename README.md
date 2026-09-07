@@ -1,2 +1,2 @@
-# My Git Practice
+i am learning Git and GitHub.
 
