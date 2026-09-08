@@ -14,3 +14,5 @@ I am practicing python programming and problem solving.
 ## Git Conflict Practice
 
 This line was changed from main branch.
+
+I am practicing Git stash.
