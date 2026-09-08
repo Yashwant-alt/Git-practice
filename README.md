@@ -10,3 +10,7 @@ This feature is begin developed on a seperate branch.
 ## Python Practice
 
 I am practicing python programming and problem solving.
+
+## Git Conflict Practice
+
+This line was added from conflict-test branch.
